@@ -49,5 +49,5 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea ð
 
 <div align="right">
 
-[![HitCount](http://hits.dwyl.com/HYNIX-Jang/{project}.svg)](http://hits.dwyl.com/HYNIX-Jang/{project})
+[![HitCount](http://hits.dwyl.com/HYNIX-Jang/{project}.svg)](http://hits.dwyl.com/HYNIX-Jang)
 </div>
