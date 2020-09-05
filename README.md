@@ -1,16 +1,53 @@
-### Hi there 👋
+### Hey there 👋, Welcome to my Github !
 
-<!--
-**HYNIX-Jang/HYNIX-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduce
 
-Here are some ideas to get you started:
+Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea 🚀 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357" />
+
+**Talking about Personal Stuffs:**
+- 👨🏻‍💻 I’m currently a `Java Back-End Developer`, working at [OPENOBJECT](http://openobject.net/)
+- 🌱 I’m currently learning `React Front-End`
+- 🤔 My interests are with `Back-End, Front-End Development` and other learning about new technology etc...
+- 🗣 I speak four languages, 🇰🇷(Native), 🇬🇧(Intermediate), 🇯🇵(Fluent), 🇨🇳(Basic) 
+- 💬 Ask me about anything you want!
+- 📫 Don't hesitate to contact me! Please send me via [email](mailto:hynix_1@hynixlabs.com) or [Instagram](https://www.instagram.com/superkinggod)
+
+
+
+**Languages and Tools:**  
+<code><img height="20" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png"></code>
+<code><img height="20" src="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Android-512.png"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
+<code><img height="20" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
+<code><img height="20" src="https://kubernetes.io/images/favicon.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<code><img height="20" src="https://miro.medium.com/max/1084/1*L8UwJymGdpTh-jSXhDZO6g.png"></code>
+
+
+![Kuk Yeong's github stats](https://github-readme-stats.vercel.app/api?username=HYNIX-Jang&show_icons=true)
+
+<div align="center">
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hynixJKY)](https://www.facebook.com/hynixJKY) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/superkinggod)](https://www.instagram.com/superkinggod) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/hynix_jky)](https://www.twitter.com/hynix_jky) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hynix_1)](https://t.me/hynix_1)
+
+</div>
+
+
+<div align="right">
+
+[![HitCount](http://hits.dwyl.com/HYNIX-Jang/{project}.svg)](http://hits.dwyl.com/HYNIX-Jang/{project})
+</div>
