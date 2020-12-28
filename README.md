@@ -41,7 +41,7 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea ð
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hynixJKY)](https://www.facebook.com/hynixJKY) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/superkinggod)](https://www.instagram.com/superkinggod) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/hynix_jky)](https://www.twitter.com/hynix_jky) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/hynix_525)](https://www.twitter.com/hynix_525) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hynix_1)](https://t.me/hynix_1)
 
 </div>
