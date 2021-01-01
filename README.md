@@ -35,7 +35,7 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea ð
 <code><img height="40" src="https://miro.medium.com/max/1084/1*L8UwJymGdpTh-jSXhDZO6g.png"></code>
 
 
-![Kuk Yeong's github stats](https://github-readme-stats.vercel.app/api?username=HYNIX-Jang&show_icons=true)
+![Kuk Yeong's github stats](https://github-readme-stats.vercel.app/api?username=max-jang&show_icons=true)
 
 <div align="center">
 
@@ -49,5 +49,5 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea ð
 
 <div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhynix-jang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmax-jang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
