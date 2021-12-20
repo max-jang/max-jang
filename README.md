@@ -28,7 +28,7 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea ð
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
-<code><img height="40" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-256.png"></code>
 <code><img height="40" src="https://kubernetes.io/images/favicon.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
