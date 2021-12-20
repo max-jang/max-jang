@@ -17,7 +17,7 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea ð
 
 
 **Languages and Tools:**  
-<code><img height="40" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png"></code>
 <code><img height="40" src="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Android-512.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
