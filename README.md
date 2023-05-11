@@ -7,7 +7,7 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea �
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357" />
 
 **Talking about Personal Stuffs:**
-- 👨🏻‍💻 I’m currently a `Kotlin/Java Back-End Developer`, working at [FASTVIEWKOREA](https://fastviewkorea.com/)
+- 👨🏻‍💻 I’m currently a `Kotlin/Java Back-End Developer`, Now, I' a software engineer freelancer who is currently looking for a job in South Korea.<!-- working at [FASTVIEWKOREA](https://fastviewkorea.com/)-->
 - 🌱 I’m currently learning `GitHub Actions`
 - 🤔 My interests are with `Back-End, Front-End Development` and other learning about new technology etc...
 - 🗣 I speak four languages, 🇰🇷(Native), 🇬🇧(Intermediate), 🇯🇵(Fluent), 🇨🇳(Basic) 
