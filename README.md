@@ -12,7 +12,7 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea �
 - 🤔 My interests are with `Back-End, Front-End Development` and other learning about new technology etc...
 - 🗣 I speak four languages, 🇰🇷(Native), 🇬🇧(Intermediate), 🇯🇵(Fluent), 🇨🇳(Basic) 
 - 💬 Ask me about anything you want!
-- 📫 Don't hesitate to contact me! Please send me via [email](mailto:hynix_1@hynixlabs.com) or [Instagram](https://www.instagram.com/superkinggod)
+- 📫 Don't hesitate to contact me! Please send me via [email](mailto:max@maxjang) or [LinkedIn](https://linkedin.com/in/max-jang)
 
 
 
