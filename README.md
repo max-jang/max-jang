@@ -9,9 +9,9 @@ Hi there, I'm **I'm Kuk Yeong Jang**,  a `Back-End Developer` from South Korea �
 **Talking about Personal Stuffs:**
 - 👨🏻‍💻 I’m currently a `Kotlin/Java Back-End Developer`, I am currently a software engineer at SK Shieldus in Pangyo.
 - 🌱 I’m currently learning `GitHub Actions`
-- 🤔 My interests are with `Back-End, Front-End Development` and other learning about new technology etc...
+- 🤔 My interests lie in `Back-End, Front-End Development`, as well as exploring new technologies. 
 - 🗣 I speak four languages, 🇰🇷(Native), 🇬🇧(Intermediate), 🇯🇵(Fluent), 🇨🇳(Basic) 
-- 💬 Ask me about anything you want!
+- 💬 Feel free to ask me anything!
 - 📫 Don't hesitate to contact me! Please send me via [email](mailto:max@maxjang) or [LinkedIn](https://linkedin.com/in/max-jang)
 
 
