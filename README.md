@@ -1,8 +1,8 @@
-### Hey there 👋, Welcome to my Github !
+### Hey there 👋, Welcome to my GitHub !
 
 ## Introduce
 
-Hi there, I'm **Kuk Yeong Jang (Max Jang)**, a `Back-End Developer` from South Korea 🚀 <br>
+Hi there, I'm **Kukyeong Jang (Max Jang)**, a `Back-End Developer` from South Korea 🚀 <br>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357" />
 
